@@ -32,9 +32,9 @@ This app demonstrates the following features of Streamlit:
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
+    ```bash
     git remote add origin https://github.com/MehediHasan-ds/StreamLit.git
-````
+    ```
 
 2. **Install the required dependencies**:
 

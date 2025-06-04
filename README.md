@@ -108,21 +108,4 @@ This app demonstrates the following features of Streamlit:
 
 * **Reusable functions** (fragments) like `display_bmi_interpretation()` for handling BMI interpretation ensure code reuse and maintainability.
 
-## Example Screenshots:
-
-1. **BMI Calculator** Page:
-
-   * Users input their weight and height and receive their BMI index and interpretation.
-
-2. **Data & Chart** Page:
-
-   * Displays a randomly generated table and area chart of columns "A" and "B".
-
-3. **Map** Page:
-
-   * Displays an interactive map with random geographical coordinates.
-
-4. **Counter** Page:
-
-   * A counter that can be incremented using a button. The count persists across app reruns.
 
